@@ -1,0 +1,95 @@
+Mona Singh
+Wake County Board of Commissioners — At-Large — November 3, 2026
+Democratic Party
+Source type: candidate/campaign self-reports; claims are not independently verified.
+Snapshot retrieved: 2026-10-31; see source_manifest.json for full acquisition dates and provenance.
+
+---
+
+[MS-BIO] Ballotpedia 2026 survey: Who are you? Tell us about yourself.
+Source: https://ballotpedia.org/Mona_Singh
+
+Mona Singh has proudly called Wake County home since 1995. She and her husband, a Professor at NC State, have raised their two children here—both graduates of Wake County Public Schools. A nationally recognized technology expert, Mona holds more than 130 U.S. patents, has played a key role in major industry innovations that improve everyday lives, and has served as an expert witness in high-profile technology cases.
+
+Beyond her career, Mona is deeply committed to service. She has led hunger relief efforts, refugee support programs, and community volunteer initiatives. She serves on the Board of Directors for Activate Good and the Town of Cary’s Information Services Advisory Board. A lifelong Democrat, Mona has served as a precinct leader, campaign organizer, canvasser, and canvassing trainer. She has trained hundreds of volunteers and collaborated with key Wake groups to flip key NC Senate seats.
+
+I’m running to apply my professional expertise and my grassroots experience to elevate Wake County. My skills will complement the rest of our great Commission to address major challenges, e.g., affordability, education, and transit. People-focused systems thinking will break down silos and find efficiencies across County services. I will enhance community, build human and social capital, and improve mental health, making Wake a place to flourish.
+
+---
+
+[MS-KEY] Ballotpedia 2026 survey: Three key campaign messages
+Source: https://ballotpedia.org/Mona_Singh
+
+Funding Public Education, Special Education, and Infrastructure.
+
+I will ensure that public schools get the funding to provide quality education. I will work to find ways to provide the necessary funds for all aspects of our schools, including buildings and equipment, support (salaries, benefits, etc.) for WCPSS teachers and other staff. I will work to measurably advance community participation in education by promoting programs such as Communities in Schools for mentoring students so that students whose families may lack college-educated adults can benefit from the experience and expertise of retirees, and to enhance STEAM offerings across our schools.
+
+Housing Affordability.
+
+We can improve the quality of life by promoting higher density residences with convenient access to shared spaces such as parks. Higher density development along with pedestrian-friendly layouts would make walking more pleasant and help build community by enhancing casual interactions between neighbors, with payoffs in social capital and mental health. It would also make public transportation more viable and thus lead to a reduction of the need for single occupancy vehicles.
+
+Public Transportation and Microtransit.
+
+I will ensure any affordable housing is well-connected to employment centers through public transit; we currently have affordable housing with inadequate connectivity, which unjustifiably constrains the opportunities for low-income residents. Longer-term, I will support efforts to create a light rail system in the Triangle and vicinity.
+
+---
+
+[MS-WEB] Campaign website statement reproduced by Ballotpedia (2026 section)
+Source: https://ballotpedia.org/Mona_Singh
+Original campaign page: https://www.monaforwake.com/
+
+Investing in Public Education
+
+Strong public education is the foundation of a thriving community life and strong economic growth—attracting businesses, creating jobs, and strengthening our future.
+
+Every child deserves access to high-quality public schools and a clear pathway to employable skills for their future.
+
+Mona (a volunteer teacher herself) will advocate for our schools and community colleges, including well-paid teachers and well-equipped classrooms that will benefit us all.
+
+Listening and Innovating
+
+AI and smart technologies promise major benefits but they are not without risks that must be managed..
+
+County services and policies should be geared towards serving the most people possible, and building a stronger, happier, and more productive community for us all.
+
+Mona will help Wake County adopt smart, responsible technologies, to improve county services while also prioritizing the protection of our privacy.
+
+Improving Quality of Life
+
+County services are often siloed and don’t always serve residents most efficiently or effectively.
+
+Every resident deserves seamless access to critical services, such as housing, healthcare, public safety, and public transit.
+
+Mona will apply data-driven insights to create policies that enhance these services and better align them with the needs of our communities.
+
+---
+
+[MS-FAQ1] Campaign website FAQ: Why are you running for this office?
+Source: https://www.monaforwake.com/meetmona
+
+I am running to apply my professional skills to give back to Wake County.
+
+Through my career, I have acquired important skills in understanding the needs of people at a systems level, not just in isolated parts, and in finding solutions that balance competing demands in a cost-effective manner. My strengths include innovation (I have invented over 130 patents), people-centered design, prioritization (I was responsible for a business with annual revenues of over $1 billion), and launching products with tens of thousands of users. I know how to frame human-technology interactions, craft key performance indicators (KPIs), monitor them, identify root causes where an organization falls short, and implement changes to improve these KPIs.
+
+My skills in innovation and data-driven management can help improve how County services mesh with each other, finding efficiencies to enhance the benefits from our annual budget of $2.28 billion, while making sure our most vulnerable residents are protected. My expertise in human-centered technology will help me guide an AI policy for the County to minimize AI’s risks to residents, while supporting upskilling to avoid potential job loss due to the rise of AI.
+
+---
+
+[MS-FAQ2] Campaign website FAQ: Are there specific programs or services Wake County should add?
+Source: https://www.monaforwake.com/meetmona
+
+I will advocate for enhancing these:
+
+Better data tracking, analysis, and retrospective reviews of County programs. Example: improve tracking and root cause analysis of reports under the nondiscrimination ordinance.
+
+Helping those in need. Example: Increase property tax and utility bill assistance for low-income elderly residents.
+
+Participatory governance. Examples: Transparency regarding expenditures at a more granular level than currently; webtools with which community groups can consider their problems and priorities, and advise on alternative solutions.
+
+Education & outreach about County services. Example: Community social workers and volunteers based in each community, building trust with residents and helping them navigate County services, e.g., for mental health and substance abuse, options for low-income people, and language access.
+
+Future proofing. Examples: improved public transit; broadband access for all, e.g., via libraries; proactive upskilling for people at risk of job loss because of AI.
+
+Community. Example: Recently, there have been Teen Takeover events across the country and in Wake County that have led to delinquency and violence. I will advocate for enhancing community efforts to engage young people. For example, County workers and community organizations can host cultural events (such as arts, music, sports) that not only provide productive outlets for young people but will also develop their valuable life skills such as teamwork and communication.
+
+Protecting the environment. Example: Our building practices and road construction (itself higher due to inadequate public transit) cause a lot of damage to trees. We should plan with the environment in mind. For instance, when building is unavoidable in forested spaces, we ought to have the fewest homes with narrow roads made of porous materials to minimize environmental impact.
