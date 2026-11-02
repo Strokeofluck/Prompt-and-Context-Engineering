@@ -1,0 +1,184 @@
+Kyle Stogoski
+Wake County Board of Commissioners — At-Large — November 3, 2026
+Republican Party
+Source type: candidate/campaign self-reports; claims are not independently verified.
+Snapshot retrieved: 2026-10-31; see source_manifest.json for full acquisition dates and provenance.
+
+---
+
+[KS-BIO] Ballotpedia 2026 survey: Who are you? Tell us about yourself.
+Source: https://ballotpedia.org/Kyle_Stogoski
+
+My name is Kyle Stogoski. I am a 26 year old living in southwest Raleigh, and I possess a brightly burning passion for the affordability crisis afflicting Wake County. Originally from Connecticut, my family moved to Florida when I was 12 due to affordability issues, and then I moved up to North Carolina on my own when I was 21 in 2021, after losing my mother to pancreatic cancer around Christmas of 2020 due to feeling a spurred sense of wanderlust following her passing. After coming to NC, I continued working a mix of rideshare gigs and customer-facing hourly jobs. I attended Wake Tech for a time, but eventually dropped out due to affordability issues, and a stint of homelessness where I lived out of my car with my dogs, something that has gone a long way towards molding my drive and decision to run for office. I've since both volunteered and worked with other campaigns in the area, and am now taking that political passion into my own hands.
+
+---
+
+[KS-KEY] Ballotpedia 2026 survey: Three key campaign messages
+Source: https://ballotpedia.org/Kyle_Stogoski
+
+Housing Affordability - As things stand right now, the cost-of-living is utterly unsustainable, and is only becoming worse. This is something I understand particularly well as someone of Generation Z who is struggling immensely with the job market as many of us are. I support measures such as fast-track starter housing, first-look programs for Wake residents, expanding down payment assistance programs for Wake residents, and I will fiercely advocate with legislative connections to slam the door fully shut on predatory corporations like Blackstone and career landlords from buying up our single and multi family housing.
+
+Intelligent Stewardship - Growth is a good thing when it's done with intent and purpose, but can be negative when there are no environmental guardrails in place. I support a local-business-first economy, with grant programs for small businesses, permit streamlining for local operators, and targeted incentives for employers who reinvest locally, while tempering all of that with protections for farmlands and other natural open spaces, focusing growth in existing sectors and redeveloping existing underutilized infrastructure, and linking requirements/incentives to energy efficiency and environmental mitigation.
+
+Invest in People, not Bureaucracy - The fact of implementing plans and investing in growth alone is not enough. These idealistic goals often become lost in the murky waters of bureaucracy, or may result in inefficiently high spending, and thus higher taxes. To counter-balance my prior listed growth initiatives, we must ensure that dollars spent go to the people of Wake, not a bloated system. Zero-based budgeting, public performance dashboards, regular independent audits, and sunset clauses on programs that fail to meet expectations are just a few of the many common sense conditions I will attach to my plan in order to ensure tax dollars are spent wisely, not excessively.
+
+---
+
+[KS-WEB] Campaign website statement reproduced by Ballotpedia (2026 section)
+Source: https://ballotpedia.org/Kyle_Stogoski
+Original campaign page: https://www.stogoskiforwake.com/platform
+Original page returned HTTP 404; passage comes from Ballotpedia's reproduced statement.
+
+Pillar 1 - Ownership for Working Families
+
+Legalize and Fast-Track Starter Housing
+
+Expand by-right zoning for starter homes, duplexes, triplexes, and small multi-family housing in unincorporated Wake County
+
+Reduce unnecessary lot-size, parking, and setback barriers that inflate entry-level home prices.
+
+Create a “Permitting Fast Lane” for code-compliant starter housing projects
+
+Give Local Buyers a Fair Shot
+
+Establish a First-Look Homebuyer Initiative that prioritizes owner-occupant buyers and community organizations before investor bidding
+
+Coordinate with lenders, nonprofits, and housing partners to increase early access opportunities
+
+Preserve Long-Term Affordability
+
+Expand partnerships with community land trusts and nonprofit housing providers to keep homes permanently affordable and locally owned
+
+Support acquisition strategies that prevent speculative loss of attainable housing
+
+Expand Down Payment and Closing Cost Support
+
+Target assistance toward working families, first-time buyers, and long-term Wake residents
+
+Pair assistance with financial education and stable homeownership pathways
+
+Support Small Builders and Infill Development
+
+Level the playing field for local builders against large national developers
+
+Encourage redevelopment of underused lots and neighborhoods with existing infrastructure
+
+Pillar 2 - Local Business First Economy
+
+Local Procurement and Small Business Access
+
+Expand local vendor participation in county contracts within legal guidelines
+
+Break large contracts into smaller bid packages so local firms can compete
+
+Increase transparency and accessibility in the bidding process
+
+Small Business Growth & Entrepreneurship
+
+Create micro-grant and revolving loan programs for startups and small enterprises
+
+Develop incubator and maker spaces using underutilized county facilities where feasible
+
+Provide technical assistance for permitting, compliance, and expansion
+
+Permit Streamlining for Local Operators
+
+Accelerate approvals for small businesses and local expansions
+
+Reduce redundant inspections and administrative delays where safety allows
+
+Targeted Economic Incentives
+
+Prioritize incentives for employers that create high-quality local jobs and reinvest locally
+
+Avoid subsidy races that favor outside corporations with minimal community return
+
+Workforce-Aligned Business Development
+
+Align recruitment efforts with Wake Tech and local training pipelines
+
+Encourage employers who invest in apprenticeships and local hiring
+
+Pillar 3 - Invest in People, not Bureaucracy
+
+Outcome-Based Education Funding
+
+Tie supplemental funding and capital investments to student performance metrics
+
+Require program evaluations and sunset provisions for underperforming initiatives
+
+Merit-Driven Program Review
+
+Conduct regular audits of major education and workforce investments
+
+Prioritize programs that demonstrate measurable improvement
+
+Workforce Development Pipelines
+
+Expand partnerships with Wake Tech, employers, and high schools for skilled trades, biotech, healthcare, and IT pathways
+
+Support credential programs tied directly to job placement
+
+Broadband and Digital Access
+
+Expand rural and underserved broadband access to support education, remote work, and entrepreneurship
+
+Public Health and Workforce Stability
+
+Strengthen preventive care access and mental health partnerships to support workforce participation and productivity
+
+Pillar 4 - Smart Growth, Strong Land Stewardship
+
+Infill and Redevelopment Priority
+
+Direct growth toward existing employment corridors and underused commercial properties
+
+Incentivize brownfield redevelopment and adaptive reuse
+
+Permanent Farmland and Open Space Protection
+
+Expand conservation easements and purchase-of-development-rights programs
+
+Support agricultural protection zoning in rural areas
+
+Infrastructure Discipline
+
+Limit utility extensions that encourage sprawl
+
+Prioritize infrastructure investment where growth is planned and sustainable
+
+Environmental Performance Standards
+
+Tie incentives to water conservation, stormwater management, energy efficiency, and environmental mitigation
+
+Balanced Transportation Investment
+
+Ensure transit investments prioritize Wake County residents, performance, and fiscal responsibility
+
+Pillar 5 - Accountability and Fairness
+
+Public Performance Dashboards
+
+Publish clear metrics on spending outcomes, project delivery, and program performance
+
+Independent Audits and Oversight
+
+Regular third-party audits of major programs and capital projects
+
+Clear corrective action pathways when projects fall short
+
+Transparent Procurement
+
+Improve visibility into contracts, vendors, and outcomes
+
+Prevent unnecessary concentration of public contracts
+
+Results-Based Budgeting
+
+Shift funding toward programs that demonstrate results
+
+Reallocate or sunset ineffective programs
+
+Public Safety Accountability
+
+Data transparency for justice system performance, pretrial outcomes, and resource deployment
